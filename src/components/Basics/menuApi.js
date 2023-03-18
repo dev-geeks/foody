@@ -1,7 +1,7 @@
 const Menu = [{
     id: 1,
     image: "sffs",
-    name: "maggi",
+    name: "Maggi",
     category: "lunch",
     price: 25,
     description: 'loremt text for description of something'
@@ -9,7 +9,7 @@ const Menu = [{
 {
     id: 2,
     image: "images/allupakoida.jpg",
-    name: "allu pakoida",
+    name: "Sushi",
     category: "evening",
     price: "20₹",
     description:
@@ -18,7 +18,7 @@ const Menu = [{
   {
     id: 3 ,
     image: "images/allupakoida.jpg",
-    name: "allu pakoida",
+    name: "Chicken Tikka",
     category: "evening",
     price: "20₹",
     description:
