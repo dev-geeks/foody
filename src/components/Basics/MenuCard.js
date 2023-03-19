@@ -16,7 +16,7 @@ const MenuCard = ({menuData}) =>{
                             <div className="card-read">Read</div>
                         </div>
                         <div>
-                            {/* <img src={image} alt="imgs" className="card-media"/> */}
+                            <img src={curElem.image} alt="imgs" className="card-media"/>
                             <span className="card-tag">Order Now</span>
                         </div>
                     </div>

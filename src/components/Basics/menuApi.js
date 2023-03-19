@@ -1,6 +1,6 @@
 const Menu = [{
     id: 1,
-    image: "sffs",
+    image: "images/maggi.jpg",
     name: "Maggi",
     category: "lunch",
     price: 25,
@@ -8,18 +8,18 @@ const Menu = [{
 },
 {
     id: 2,
-    image: "images/allupakoida.jpg",
+    image: "images/sushi.jpg",
     name: "Sushi",
-    category: "evening",
+    category: "snacks",
     price: "20₹",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
     id: 3 ,
-    image: "images/allupakoida.jpg",
+    image: "images/Chicken-Tikka.jpg",
     name: "Chicken Tikka",
-    category: "evening",
+    category: "snacks",
     price: "20₹",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
