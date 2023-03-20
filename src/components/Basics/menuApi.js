@@ -24,6 +24,24 @@ const Menu = [{
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
+  {
+    id: 4,
+    image: "images/thali.jpg",
+    name: "Dal Makhni",
+    category: "dinner",
+    price: "20₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 5,
+    image: "images/parantha.jpg",
+    name: "Aalu Prantha",
+    category: "breakfast",
+    price: "20₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
 ];
 
 export default Menu;

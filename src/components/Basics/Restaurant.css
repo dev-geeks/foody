@@ -7,7 +7,6 @@
   
   html {
     background: linear-gradient(to right, #9796f0, #fbc7d4);
-    /* background-image: url(https://s3.postimg.org/s1n3ji1ur/paper_fibers_2_X.png); */
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
     font-size: 14px;
@@ -144,15 +143,6 @@
     margin: -1px auto 0;
     width: 80%;
     z-index: -1;
-  }
-  
-  @media (max-width: 998px) {
-    .main-card--cointainer {
-      display: grid;
-      grid-template-columns: repeat(1, minmax(200px, 500px));
-      grid-gap: 50px;
-      justify-content: space-around;
-    }
   }
   
   /* ---------- Button styles ------------------ */
